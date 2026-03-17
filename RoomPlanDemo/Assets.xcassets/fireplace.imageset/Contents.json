@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "fireplace.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
